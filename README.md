@@ -1,11 +1,12 @@
+<!--
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">A passionate web developer since his childhood</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozdemirtaha&label=Profile%20views&color=000000&style=flat-square" alt="ozdemirtaha" /> </p>
 
-<!--
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozdemirtaha" alt="ozdemirtaha" /></a> </p>
--->
+
 
 - 🔭 I’m currently working on [Custom Content Management System](https://www.tahaozdemir.com/cms)
 
@@ -61,3 +62,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozdemirtaha&show_icons=true&locale=en" alt="ozdemirtaha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozdemirtaha&" alt="ozdemirtaha" /></p>
+-->
