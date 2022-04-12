@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **php, codeigniter, laravel and javascript**
 
-- 📫 How to reach me **ozdemirismailtaha58@gmail.com**
+- 📫 How to reach me **[https://www.tahaozdemir.com](https://www.tahaozdemir.com)**
 
 - 📄 Know about my experiences [https://www.tahaozdemir.com/#experiences](https://www.tahaozdemir.com/#experiences)
 
