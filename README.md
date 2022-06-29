@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">A passionate web developer since his childhood</h3>
 
-- 🔭 I’m currently working on [Custom Content Management System](https://www.tahaozdemir.com/cms)
+- 🔭 I’m currently working on [Custom Content Management System](https://www.tahaozdemir.com/cms) (Soon)
 
 - 🌱 I’m currently learning **javascript's frameworks like reactjs**
 
 - 👯 I’m looking to collaborate on **PHP & JS Based Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.tahaozdemir.com](https://www.tahaozdemir.com)
+- 👨‍💻 All of my projects are available at [https://www.tahaozdemir.com](https://www.tahaozdemir.com) (Soon)
 
 - 💬 Ask me about **php, codeigniter, laravel and javascript**
 
 - 📫 How to reach me **[Contact](https://www.tahaozdemir.com)**
 
-- 📄 Know about my experiences [https://www.tahaozdemir.com/#experiences](https://www.tahaozdemir.com/#experiences)
+- 📄 Know about my experiences [https://www.tahaozdemir.com/#experiences](https://www.tahaozdemir.com/#experiences) (Soon)
 
 - ⚡ Fun fact **I would like to live in usa...**
 
