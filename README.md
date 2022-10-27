@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.tahaozdemir.com/#experiences](https://www.tahaozdemir.com/#experiences) (Soon)
 
-- ⚡ Fun fact **I'm dreamin' of living in United States...**
+- ⚡ Fun fact **I'm dreamin' of living in California...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
