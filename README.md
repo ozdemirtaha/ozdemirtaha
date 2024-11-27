@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Taha</h1>
 <h3 align="center">A passionate web developer since his childhood</h3>
 
-- 🔭 I’m currently working on [Endless Cards](https://endless.cards)
+- 🔭 I’m currently working on a custom eCommerce project](https://ticita.com/)
 
-- 🌱 I’m currently learning **javascript's frameworks like reactjs**
+- 🌱 I’m currently learning **reactjs**
 
 - 👯 I’m looking to collaborate on **PHP & JS Based Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.tahaozdemir.com](https://www.tahaozdemir.com) (Soon)
+- 👨‍💻 All of my projects are available at [https://www.tahaozdemir.com](https://www.tahaozdemir.com)
 
 - 💬 Ask me about **php, codeigniter, laravel and javascript**
 
